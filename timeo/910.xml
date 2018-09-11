@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<xmldata>
+  <erreur code="000"></erreur>
+
+  <heure>11:30</heure>
+  <date>2018-09-11</date>
+
+  <expire>67500</expire>
+
+  <alss nb="32">
+    <als id="1">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>401</code>
+        <nom>401</nom>
+        <sens>A</sens>
+        <vers>Saint-Michel-sur-Orge Rue Berlioz</vers>
+        <couleur>13395711</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="2">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>401</code>
+        <nom>401</nom>
+        <sens>R</sens>
+        <vers>Corbeil-Essonnes Gare RER</vers>
+        <couleur>13395711</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="3">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>402</code>
+        <nom>402</nom>
+        <sens>A</sens>
+        <vers>Viry-Châtillon La Treille</vers>
+        <couleur>16711680</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="4">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>402</code>
+        <nom>402</nom>
+        <sens>R</sens>
+        <vers>Le Coudray-Montceaux Terminal David Douillet</vers>
+        <couleur>16711680</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="5">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>403</code>
+        <nom>403</nom>
+        <sens>A</sens>
+        <vers>Evry-Courcouronnes Centre</vers>
+        <couleur>16750899</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="6">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>403</code>
+        <nom>403</nom>
+        <sens>R</sens>
+        <vers>Soisy-sur-Seine Les Meillottes</vers>
+        <couleur>16750899</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="7">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>404</code>
+        <nom>404</nom>
+        <sens>A</sens>
+        <vers>Evry Gare du Bras de Fer RER</vers>
+        <couleur>65280</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="8">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>404</code>
+        <nom>404</nom>
+        <sens>R</sens>
+        <vers>Ris-Orangis Bois de l&apos;Epine RER</vers>
+        <couleur>65280</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="9">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>405</code>
+        <nom>405</nom>
+        <sens>A</sens>
+        <vers>Corbeil-Essonnes Henri Dunant</vers>
+        <couleur>13260</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="10">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>405</code>
+        <nom>405</nom>
+        <sens>R</sens>
+        <vers>Ris-Orangis Bois de l&apos;Epine RER</vers>
+        <couleur>13260</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="11">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>406</code>
+        <nom>406</nom>
+        <sens>A</sens>
+        <vers>Bondoufle Imprimerie Nationale</vers>
+        <couleur>13408563</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="12">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>406</code>
+        <nom>406</nom>
+        <sens>R</sens>
+        <vers>Ris-Orangis Bois de l&apos;Epine</vers>
+        <couleur>13408563</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="13">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>407</code>
+        <nom>407</nom>
+        <sens>A</sens>
+        <vers>Ris-Orangis Gare Val de Ris RER</vers>
+        <couleur>3407820</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="14">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>407</code>
+        <nom>407</nom>
+        <sens>R</sens>
+        <vers>Evry Aunettes</vers>
+        <couleur>3407820</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="15">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>408</code>
+        <nom>408</nom>
+        <sens>A</sens>
+        <vers>Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER</vers>
+        <couleur>52377</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="16">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>408</code>
+        <nom>408</nom>
+        <sens>R</sens>
+        <vers>Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER</vers>
+        <couleur>52377</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="17">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>409</code>
+        <nom>409</nom>
+        <sens>A</sens>
+        <vers>Fleury-Mérogis Clément Ader</vers>
+        <couleur>39168</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="18">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>409</code>
+        <nom>409</nom>
+        <sens>R</sens>
+        <vers>Villabé Centre Commercial</vers>
+        <couleur>39168</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="19">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>412</code>
+        <nom>412</nom>
+        <sens>A</sens>
+        <vers>Le Coudray-Montceaux Gabrielle d&apos;Estrées</vers>
+        <couleur>3355443</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="20">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>412</code>
+        <nom>412</nom>
+        <sens>R</sens>
+        <vers>Le Coudray-Montceaux Les Griottes</vers>
+        <couleur>3355443</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="21">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>413</code>
+        <nom>413</nom>
+        <sens>A</sens>
+        <vers>Bondoufle Imprimerie Nationale</vers>
+        <couleur>16777011</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="22">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>413</code>
+        <nom>413</nom>
+        <sens>R</sens>
+        <vers>Ris-Orangis Cial Aunettes</vers>
+        <couleur>16777011</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="23">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>414</code>
+        <nom>414</nom>
+        <sens>A</sens>
+        <vers>Le Plessis-Paté La Tremblaie</vers>
+        <couleur>16724940</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="24">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>414</code>
+        <nom>414</nom>
+        <sens>R</sens>
+        <vers>Evry-Courcouronnes Centre</vers>
+        <couleur>16724940</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="25">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>415</code>
+        <nom>415</nom>
+        <sens>A</sens>
+        <vers>Villabé Gare SNCF</vers>
+        <couleur>6697728</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="26">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>415</code>
+        <nom>415</nom>
+        <sens>R</sens>
+        <vers>Evry-Courcouronnes Centre</vers>
+        <couleur>6697728</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="27">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>416</code>
+        <nom>416</nom>
+        <sens>A</sens>
+        <vers>Lisses Ferme des Folies</vers>
+        <couleur>6697830</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="28">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>416</code>
+        <nom>416</nom>
+        <sens>R</sens>
+        <vers>Evry-Courcouronnes Centre</vers>
+        <couleur>6697830</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="29">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>418</code>
+        <nom>418</nom>
+        <sens>A</sens>
+        <vers>Ris-Orangis Bois de l&apos;Epine RER</vers>
+        <couleur>65382</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="30">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>419</code>
+        <nom>419</nom>
+        <sens>A</sens>
+        <vers>Ris-Orangis Gare Val de Ris RER</vers>
+        <couleur>16764057</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="31">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>420</code>
+        <nom>420</nom>
+        <sens>A</sens>
+        <vers>Epinay Gare RER</vers>
+        <couleur>26214</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+    <als id="32">
+      <arret>
+        <code></code>
+        <nom></nom>
+      </arret>
+      <ligne>
+        <code>420</code>
+        <nom>420</nom>
+        <sens>R</sens>
+        <vers>Grigny Centre RER</vers>
+        <couleur>26214</couleur>
+      </ligne>
+      <refs></refs>
+    </als>
+  </alss>
+
+</xmldata>
