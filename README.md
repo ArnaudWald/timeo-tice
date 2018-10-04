@@ -1,6 +1,14 @@
 Timéo (TICE)
 ===
-Getting real-time bus information with python
+Script python pour remplacer le site et le widget Timéo.
+
+Fonctionnement du widget
+---
+Saisie du code arrêt 
+
+
+
+
 
 Reference
 ---

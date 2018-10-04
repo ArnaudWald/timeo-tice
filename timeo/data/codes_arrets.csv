@@ -1,0 +1,911 @@
+code_ligne,nom_ligne,sens,vers,couleur,code_arret,nom_arret,refs
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1010,Agora,268518925
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1095,Aguado,268518921
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1305,Aristide BRIAND,268518954
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1314,Avenue du Lac,268518929
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1389,Bois Clairs,268518949
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1345,Cimetiere,268518932
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1201,College Paul Eluard,268518944
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1559,Coquelicots,268518955
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1369,Donjon,268518951
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1375,Edouard Branly,268518931
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1462,Eperon,268518948
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1105,Evry Courcouronnes Centre RER,268518926
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1636,Gare du Bras de Fer RER,268518918
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,2267,Gare RER,268518913
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,2259,Général de Gaulle,268518915
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1397,Gustave Courbet,268518914
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1371,Guy Môquet,268518950
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1560,Hôpital manhès,268518940
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1424,Joliot - Curie,268518947
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1076,La Garenne,268518930
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1503,La Mare aux Moules,268518937
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1580,La Tour,268518956
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1356,Les Closeaux St Spire,268518938
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1056,Les Estudines,268518928
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1034,Les Galants Courts,268518923
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1004,Les Miroirs,268518924
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1124,Les Quinconges,268518936
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1126,Les Remises,268518935
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1487,Louis Bourdet,268518933
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1491,Louis Tostain,268518953
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1207,Mairie,268518941
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1197,Marche,268518952
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1121,Marinière Lycée,268518934
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1064,Monseigneur Roméro,268518927
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1091,Pasteur,268518919
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1199,Pierre Mendès-France,268518945
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1531,Piscine,268518943
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1047,Préfecture,268518922
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1205,Rond-Point de Fleury,268518942
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1019,Rond-Point Hopit,268518917
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,0,Rue Berlioz,268518957
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1099,Saint-Exupéry,268518920
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1195,Saint Hubert,268518946
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,2255,Strathkelvin,268518916
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1595,Z.I. des Ciroliers,268518939
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1007,Agora,268551201
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1094,Aguado,268551205
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1304,Aristide BRIAND,268551172
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1315,Avenue du Lac,268551197
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1388,Bois Clairs,268551177
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1344,Cimetiere,268551194
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1200,College Paul Eluard,268551182
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1186,Coquelicots,268551171
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1144,Donjon,268551175
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1374,Edouard Branly,268551195
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1461,Eperon,268551178
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1143,Evry Courcouronnes Centre RER,268551200
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1072,Gare du Bras de Fer RER,268551208
+401,401,R,Corbeil-Essonnes Gare RER,13395711,0,Gare RER,268551213
+401,401,R,Corbeil-Essonnes Gare RER,13395711,2256,Général de Gaulle,268551211
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1396,Gustave Courbet,268551212
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1370,Guy Moquet,268551176
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1561,Hôpital manhès,268551186
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1423,Joliot - Curie,268551179
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1075,La Garenne,268551196
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1502,La Mare aux Moules,268551189
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1579,La Tour,268551170
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1355,Les Closeaux St Spire,268551188
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1055,Les Estudines,268551198
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1033,Les Galants Courts,268551203
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1003,Les Miroirs,268551202
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1123,Les Quinconges,268551190
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1125,Les Remises,268551191
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1486,Louis Bourdet,268551193
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1490,Louis Tostain,268551173
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1206,Mairie,268551185
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1196,Marche,268551174
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1120,Marinière Lycée,268551192
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1065,Monseigneur Roméro,268551199
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1090,Pasteur,268551207
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1198,Pierre Mendès-France,268551181
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1530,Piscine,268551183
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1046,Préfecture,268551204
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1204,Rond-Point de Fleury,268551184
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1020,Rond-Point Hopit,268551209
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1187,Rue Berlioz,268551169
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1098,Saint-Exupéry,268551206
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1194,Saint Hubert,268551180
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1568,Strathkelvin,268551210
+401,401,R,Corbeil-Essonnes Gare RER,13395711,1596,Z.I. des Ciroliers,268551187
+402,402,A,Viry-Châtillon La Treille,16711680,1012,Agora,268567310|268567566|268567064|268566808
+402,402,A,Viry-Châtillon La Treille,16711680,2286,Ambroise Croizat,268567052|268566796
+402,402,A,Viry-Châtillon La Treille,16711680,1544,Auguste Plat,268567319|268567575|268567073|268566817|268567814
+402,402,A,Viry-Châtillon La Treille,16711680,1023,Bois de l'Epine RER,268567317|268567573|268567071|268566815|268567812
+402,402,A,Viry-Châtillon La Treille,16711680,1331,Cavignon,268567045|268566789
+402,402,A,Viry-Châtillon La Treille,16711680,1601,C.E.S. Albert Camus,268567322|268567578|268567076|268566820|268567817
+402,402,A,Viry-Châtillon La Treille,16711680,1113,Charles Robin,268567298|268567554
+402,402,A,Viry-Châtillon La Treille,16711680,1127,Evry Courcouronnes Centre RER,268567309|268567565|268567063|268566807
+402,402,A,Viry-Châtillon La Treille,16711680,1069,Gare du Bras de Fer RER,268567302|268567558|268567056|268566800
+402,402,A,Viry-Châtillon La Treille,16711680,2267,Gare RER,268567297|268567553
+402,402,A,Viry-Châtillon La Treille,16711680,1179,Grigny Centre RER,268567323|268567579|268567077|268566821|268567818
+402,402,A,Viry-Châtillon La Treille,16711680,1106,Hopital Sud Fran,268567301|268567557|268567055|268566799
+402,402,A,Viry-Châtillon La Treille,16711680,1646,Jean Jaurès,268567321|268567577|268567075|268566819|268567816
+402,402,A,Viry-Châtillon La Treille,16711680,1037,Jean Renoir,268567313|268567569|268567067|268566811
+402,402,A,Viry-Châtillon La Treille,16711680,1081,Jean Rostand,268567307|268567563|268567061|268566805
+402,402,A,Viry-Châtillon La Treille,16711680,1436,La Demi-Lune,268567044|268566788
+402,402,A,Viry-Châtillon La Treille,16711680,1562,La Ferme Neuve,268567325|268567581|268567079|268566823|268567820
+402,402,A,Viry-Châtillon La Treille,16711680,1650,La Mare à Pilatre,268567318|268567574|268567072|268566816|268567813
+402,402,A,Viry-Châtillon La Treille,16711680,0,La Treille,268567329|268566827|268567824
+402,402,A,Viry-Châtillon La Treille,16711680,0,La Treille-RD445,268567585|268567083
+402,402,A,Viry-Châtillon La Treille,16711680,1177,Le Damier,268567326|268567582|268567080|268566824|268567821
+402,402,A,Viry-Châtillon La Treille,16711680,1243,Léon Cassé,268567051|268566795
+402,402,A,Viry-Châtillon La Treille,16711680,2277,L'Ermitage,268567048|268566792
+402,402,A,Viry-Châtillon La Treille,16711680,1006,Les Miroirs,268567311|268567567|268567065|268566809
+402,402,A,Viry-Châtillon La Treille,16711680,1049,Lisière des deux Parcs,268567306|268567562|268567060|268566804
+402,402,A,Viry-Châtillon La Treille,16711680,1045,Lycée Georges Brassens,268567314|268567570|268567068|268566812|268567809
+402,402,A,Viry-Châtillon La Treille,16711680,1224,Mairie,268567042|268566786
+402,402,A,Viry-Châtillon La Treille,16711680,1039,Marchais Guesdon,268567316|268567572|268567070|268566814|268567811
+402,402,A,Viry-Châtillon La Treille,16711680,1065,Monseigneur Roméro,268567308|268567564|268567062|268566806
+402,402,A,Viry-Châtillon La Treille,16711680,1104,Montagne des Gla,268567299|268567555
+402,402,A,Viry-Châtillon La Treille,16711680,2281,Montconseil,268567049|268566793
+402,402,A,Viry-Châtillon La Treille,16711680,1041,Orme à Martin,268567315|268567571|268567069|268566813|268567810
+402,402,A,Viry-Châtillon La Treille,16711680,1085,Parc des Loges,268567312|268567568|268567066|268566810
+402,402,A,Viry-Châtillon La Treille,16711680,1214,Place de la Carp,268567328|268567584|268567082|268566826|268567823
+402,402,A,Viry-Châtillon La Treille,16711680,1067,Place de la Commune,268567305|268567561|268567059|268566803
+402,402,A,Viry-Châtillon La Treille,16711680,1063,Place Jean Malézieux,268567304|268567560|268567058|268566802
+402,402,A,Viry-Châtillon La Treille,16711680,1212,Plaine Centrale,268567327|268567583|268567081|268566825|268567822
+402,402,A,Viry-Châtillon La Treille,16711680,1538,Pressoir Prompt,268567047|268566791
+402,402,A,Viry-Châtillon La Treille,16711680,1611,RN7 / LISSES,268567053|268566797
+402,402,A,Viry-Châtillon La Treille,16711680,1569,Rue Departement,268567050|268566794
+402,402,A,Viry-Châtillon La Treille,16711680,1573,Rue du Chene,268567046|268566790
+402,402,A,Viry-Châtillon La Treille,16711680,1575,Rue du Puits,268567043|268566787
+402,402,A,Viry-Châtillon La Treille,16711680,1653,Salvador Allende,268567320|268567576|268567074|268566818|268567815
+402,402,A,Viry-Châtillon La Treille,16711680,2269,Tarterets,268567300|268567556|268567054|268566798
+402,402,A,Viry-Châtillon La Treille,16711680,1052,Temps des cerises SNECMA,268567303|268567559|268567057|268566801
+402,402,A,Viry-Châtillon La Treille,16711680,1226,Terminal David Douillet,268567041|268566785
+402,402,A,Viry-Châtillon La Treille,16711680,1588,Toussaint Louverture,268567324|268567580|268567078|268566822|268567819
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1008,Agora,268600852|268601364|268601108|268607252
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1303,Ambroise Croizat,268600864|268601120
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1545,Auguste Plat,268600843|268601355|268601099|268607243
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1021,Bois de l'Epine RER,268600845|268601357|268601101|268607245
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1332,Cavignon,268600871|268601127
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1602,C.E.S. Albert Camus,268600840|268601352|268601096|268607240
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1114,Charles Robin,268601376|268607264
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1619,Evry Courcouronnes Centre RER,268600853|268601365|268601109|268607253
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1068,Gare du Bras de Fer RER,268600860|268601372|268601116|268607260
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,0,Gare RER,268601377|268607265
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1178,Grigny Centre RER,268600839|268601351|268601095|268607239
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1107,Hopital Sud Fran,268600861|268601373|268601117|268607261
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1647,Jean Jaurès,268600841|268601353|268601097|268607241
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1036,Jean Renoir,268600849|268601361|268601105|268607249
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1080,Jean Rostand,268600855|268601367|268601111|268607255
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1437,La Demi-Lune,268600872|268601128
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1563,La Ferme Neuve,268600837|268601349|268601093|268607237
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1651,La Mare à Pilatre,268600844|268601356|268601100|268607244
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1182,La Treille,268600833|268601345
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,0,La Treille-RD445,268601089|268607233
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1176,Le Damier,268600836|268601348|268601092|268607236
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1242,Léon Cassé,268600865|268601121
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,2278,L'Ermitage,268600868|268601124
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1005,Les Miroirs,268600851|268601363|268601107|268607251
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1048,Lisière des deux Parcs,268600856|268601368|268601112|268607256
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1044,Lycée Georges Brassens,268600848|268601360|268601104|268607248
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,2268,Mairie,268600874|268601130
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1038,Marchais Guesdon,268600846|268601358|268601102|268607246
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1064,Monseigneur Roméro,268600854|268601366|268601110|268607254
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1112,Montagne des Gla,268601375|268607263
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1652,Montconseil,268600867|268601123
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1040,Orme à Martin,268600847|268601359|268601103|268607247
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1084,Parc des Loges,268600850|268601362|268601106|268607250
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1215,Place de la Carp,268600834|268601346|268601090|268607234
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1066,Place de la Commune,268600857|268601369|268601113|268607257
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1062,Place Jean Malézieux,268600858|268601370|268601114|268607258
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1213,Plaine Centrale,268600835|268601347|268601091|268607235
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1539,Pressoir Prompt,268600869|268601125
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1612,RN7 / LISSES,268600863|268601119
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,2274,Rue Departement,268600866|268601122
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1574,Rue du Chene,268600870|268601126
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1576,Rue du Puits,268600873|268601129
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1654,Salvador Allende,268600842|268601354|268601098|268607242
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1217,Tarterets,268600862|268601374|268601118|268607262
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1051,Temps des cerises SNECMA,268600859|268601371|268601115|268607259
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1226,Terminal David Douillet,268600875|268601131
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1589,Toussaint Louverture,268600838|268601350|268601094|268607238
+403,403,A,Evry-Courcouronnes Centre,16750899,1008,Agora,268636952|268638741|268638996
+403,403,A,Evry-Courcouronnes Centre,16750899,1095,Aguado,268636941|268638734|268638989
+403,403,A,Evry-Courcouronnes Centre,16750899,1103,Allée Clémenceau,268636942|268638735|268638990
+403,403,A,Evry-Courcouronnes Centre,16750899,1306,Arnaud Massy,268638762|268639017
+403,403,A,Evry-Courcouronnes Centre,16750899,1314,Avenue du Lac,268638745|268639000
+403,403,A,Evry-Courcouronnes Centre,16750899,1325,Bois Briard,268638746|268639001
+403,403,A,Evry-Courcouronnes Centre,16750899,1210,Bois des Coudraies,268636938|268638731|268638986
+403,403,A,Evry-Courcouronnes Centre,16750899,1096,Champs-Elysées Gd Bourg,268636947
+403,403,A,Evry-Courcouronnes Centre,16750899,1097,Champs-Elysées Gd Bourg,268636946
+403,403,A,Evry-Courcouronnes Centre,16750899,1434,Cimetiere,268638756|268639011
+403,403,A,Evry-Courcouronnes Centre,16750899,1622,Evry Courcouronnes Centre RER,268636953|268638742|268638997
+403,403,A,Evry-Courcouronnes Centre,16750899,1624,Evry Val de Seine,268636939|268638732|268638987
+403,403,A,Evry-Courcouronnes Centre,16750899,1386,Gabriel Jaillard,268638759|268639014
+403,403,A,Evry-Courcouronnes Centre,16750899,1634,Galignani,268636935|268638728|268638983
+403,403,A,Evry-Courcouronnes Centre,16750899,1222,Gerville,268636937|268638730|268638985
+403,403,A,Evry-Courcouronnes Centre,16750899,1403,Hippodrome,268638752|268639007
+403,403,A,Evry-Courcouronnes Centre,16750899,1409,Imprimerie Nationale,268638763|268639018
+403,403,A,Evry-Courcouronnes Centre,16750899,1190,Jacques Prevert,268636950|268638739|268638994
+403,403,A,Evry-Courcouronnes Centre,16750899,1411,Jean Mermoz,268638748|268639003
+403,403,A,Evry-Courcouronnes Centre,16750899,1422,Joliot - Curie,268638751|268639006
+403,403,A,Evry-Courcouronnes Centre,16750899,1372,L'Ecoute s'il Pleut,268638750|268639005
+403,403,A,Evry-Courcouronnes Centre,16750899,1109,Le Parc,268636944|268638737|268638992
+403,403,A,Evry-Courcouronnes Centre,16750899,1025,Les Coccinelles,268638758|268639013
+403,403,A,Evry-Courcouronnes Centre,16750899,1056,Les Estudines,268638744|268638999
+403,403,A,Evry-Courcouronnes Centre,16750899,1469,Les Lilas,268636933|268638726|268638981
+403,403,A,Evry-Courcouronnes Centre,16750899,1002,Les Miroirs,268636951|268638740|268638995
+403,403,A,Evry-Courcouronnes Centre,16750899,1472,Les Osiers,268638749|268639004
+403,403,A,Evry-Courcouronnes Centre,16750899,1474,Les Petits Bois,268638761|268639016
+403,403,A,Evry-Courcouronnes Centre,16750899,1124,Les Quinconges,268638755|268639010
+403,403,A,Evry-Courcouronnes Centre,16750899,1126,Les Remises,268638754|268639009
+403,403,A,Evry-Courcouronnes Centre,16750899,1482,Les Trois Parts,268638760|268639015
+403,403,A,Evry-Courcouronnes Centre,16750899,1223,Mairie,268636934|268638727|268638982
+403,403,A,Evry-Courcouronnes Centre,16750899,1121,Marinière Lycée,268638753|268639008
+403,403,A,Evry-Courcouronnes Centre,16750899,1064,Monseigneur Roméro,268638743|268638998
+403,403,A,Evry-Courcouronnes Centre,16750899,1507,ND République,268636936|268638729|268638984
+403,403,A,Evry-Courcouronnes Centre,16750899,1074,Nouveaux Champs,268636949|268638738|268638993
+403,403,A,Evry-Courcouronnes Centre,16750899,1092,Ratisbonne,268636948
+403,403,A,Evry-Courcouronnes Centre,16750899,1093,Ratisbonne,268636945
+403,403,A,Evry-Courcouronnes Centre,16750899,1111,Rue d'Antin,268636943|268638736|268638991
+403,403,A,Evry-Courcouronnes Centre,16750899,1557,Rue des Carrières,268636931|268638724|268638979
+403,403,A,Evry-Courcouronnes Centre,16750899,1598,Rue des Meillottes,268636932|268638725|268638980
+403,403,A,Evry-Courcouronnes Centre,16750899,1570,Rue du Clos,268638757|268639012
+403,403,A,Evry-Courcouronnes Centre,16750899,1581,Rue Jean de la Fontaine,268636930|268638723|268638978
+403,403,A,Evry-Courcouronnes Centre,16750899,1101,Saint-Exupéry,268636940|268638733|268638988
+403,403,A,Evry-Courcouronnes Centre,16750899,1655,Saint Guénault,268638747|268639002
+403,403,A,Evry-Courcouronnes Centre,16750899,1608,Soisy s/Seine Collège,268638721
+403,403,A,Evry-Courcouronnes Centre,16750899,1221,Soisy s/Seine - Les Meillottes,268636929|268638722|268638977
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1007,Agora,268672280|268672024|268672536
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1094,Aguado,268668165|268672287|268672031|268672543
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1102,Allée Clémenceau,268668164|268672286|268672030|268672542
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1307,Arnaud Massy,268672258|268672002|268672514
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1315,Avenue du Lac,268672276|268672020|268672532
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1326,Bois Briard,268672275|268672019|268672531
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1209,Bois des Coudraies,268668168|268672290|268672034|268672546
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1435,Cimetiere,268672265|268672009|268672521
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1118,Evry Courcouronnes Centre RER,268672279|268672023|268672535
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1625,Evry Val de Seine,268668167|268672289|268672033|268672545
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1387,Gabriel Jaillard,268672261|268672005|268672517
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1220,Galignani,268668170|268672292|268672036|268672548
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1639,Gerville,268668169|268672291|268672035|268672547
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1393,Grand Veneur,268668172|268672294|268672038|268672550
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1404,Hippodrome,268672269|268672013|268672525
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1406,Hôtel de Ville,268672264|268672008|268672520
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1409,Imprimerie Nationale,268672257|268672001|268672513
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1191,Jacques Prevert,268672282|268672026|268672538
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1412,Jean Mermoz,268672273|268672017|268672529
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1421,Joliot - Curie,268672270|268672014|268672526
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1373,L'Ecoute s'il Pleut,268672271|268672015|268672527
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1108,Le Parc,268668162|268672284|268672028|268672540
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1464,Les Coccinelles,268672262|268672006|268672518
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1055,Les Estudines,268672277|268672021|268672533
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1003,Les Miroirs,268672281|268672025|268672537
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1473,Les Osiers,268672272|268672016|268672528
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1475,Les Petits Bois,268672259|268672003|268672515
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1123,Les Quinconges,268672266|268672010|268672522
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1125,Les Remises,268672267|268672011|268672523
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1483,Les Trois Parts,268672260|268672004|268672516
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1120,Marinière Lycée,268672268|268672012|268672524
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1065,Monseigneur Roméro,268672278|268672022|268672534
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1073,Nouveaux Champs,268672283|268672027|268672539
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1362,Place du Couvent Mairie,268668171|268672293|268672037|268672549
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1092,Ratisbonne,268668161
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1110,Rue d'Antin,268668163|268672285|268672029|268672541
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1582,Rue de l'Ermitage,268668173|268672295|268672039|268672551
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1018,Rue du Clos,268672263|268672007|268672519
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1100,Saint-Exupéry,268668166|268672288|268672032|268672544
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1128,Saint Guénault,268672274|268672018|268672530
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1608,Soisy s/Seine Collège,268672040
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899,1221,Soisy s/Seine - Les Meillottes,268668174|268672296
+404,404,A,Evry Gare du Bras de Fer RER,65280,1009,Agora,268706818|268706579
+404,404,A,Evry Gare du Bras de Fer RER,65280,1094,Aguado,268706825|268706586
+404,404,A,Evry Gare du Bras de Fer RER,65280,1102,Allée Clémenceau,268706824|268706585
+404,404,A,Evry Gare du Bras de Fer RER,65280,1022,Bois de l'Epine RER,268706561
+404,404,A,Evry Gare du Bras de Fer RER,65280,1145,Chemin de la Joute,268706571
+404,404,A,Evry Gare du Bras de Fer RER,65280,1340,Chemin du Vexin,268706570
+404,404,A,Evry Gare du Bras de Fer RER,65280,1342,Chemin Vert - Piscine,268706569
+404,404,A,Evry Gare du Bras de Fer RER,65280,1129,Collège Paul Fort,268706567
+404,404,A,Evry Gare du Bras de Fer RER,65280,1118,Evry Courcouronnes Centre RER,268706817|268706578
+404,404,A,Evry Gare du Bras de Fer RER,65280,1636,Gare du Bras de Fer RER,268706828|268706589
+404,404,A,Evry Gare du Bras de Fer RER,65280,1035,Gaspéri,268706574
+404,404,A,Evry Gare du Bras de Fer RER,65280,1191,Jacques Prevert,268706820|268706581
+404,404,A,Evry Gare du Bras de Fer RER,65280,1413,Jean Mermoz,268706564
+404,404,A,Evry Gare du Bras de Fer RER,65280,1060,JM.Djibaou,268706575
+404,404,A,Evry Gare du Bras de Fer RER,65280,1140,La Garenne,268706565
+404,404,A,Evry Gare du Bras de Fer RER,65280,1131,Le Lac,268706568
+404,404,A,Evry Gare du Bras de Fer RER,65280,1108,Le Parc,268706822|268706583
+404,404,A,Evry Gare du Bras de Fer RER,65280,1055,Les Estudines,268706576
+404,404,A,Evry Gare du Bras de Fer RER,65280,1001,Les Miroirs,268706819|268706580
+404,404,A,Evry Gare du Bras de Fer RER,65280,1038,Marchais Guesdon,268706562
+404,404,A,Evry Gare du Bras de Fer RER,65280,1065,Monseigneur Roméro,268706577
+404,404,A,Evry Gare du Bras de Fer RER,65280,1073,Nouveaux Champs,268706821|268706582
+404,404,A,Evry Gare du Bras de Fer RER,65280,1043,Orme à Martin,268706563
+404,404,A,Evry Gare du Bras de Fer RER,65280,1090,Pasteur,268706827|268706588
+404,404,A,Evry Gare du Bras de Fer RER,65280,1520,Petite Montagne,268706573
+404,404,A,Evry Gare du Bras de Fer RER,65280,1540,Petite Montagne Sud,268706572
+404,404,A,Evry Gare du Bras de Fer RER,65280,1110,Rue d'Antin,268706823|268706584
+404,404,A,Evry Gare du Bras de Fer RER,65280,1098,Saint-Exupéry,268706826|268706587
+404,404,A,Evry Gare du Bras de Fer RER,65280,1133,Thorigny,268706566
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1010,Agora,268740107|268739851
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1095,Aguado,268740100|268739844
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1103,Allée Clémenceau,268740101|268739845
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1597,Bois de l'Epine RER,268739869
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1146,Chemin de la Joute,268739859
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1341,Chemin du Vexin,268739860
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1343,Chemin Vert - Piscine,268739861
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1130,Collège Paul Fort,268739863
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1622,Evry Courcouronnes Centre RER,268740108|268739852
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1072,Gare du Bras de Fer RER,268740097|268739841
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1115,Gaspéri,268739856
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1190,Jacques Prevert,268740105|268739849
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1414,Jean Mermoz,268739866
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1059,JM.Djibaou,268739855
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1139,La Garenne,268739865
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1132,Le Lac,268739862
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1109,Le Parc,268740103|268739847
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1056,Les Estudines,268739854
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1004,Les Miroirs,268740106|268739850
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1039,Marchais Guesdon,268739868
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1064,Monseigneur Roméro,268739853
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1074,Nouveaux Champs,268740104|268739848
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1042,Orme à Martin,268739867
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1091,Pasteur,268740098|268739842
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1521,Petite Montagne,268739857
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1541,Petite Montagne Sud,268739858
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1111,Rue d'Antin,268740102|268739846
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1099,Saint-Exupéry,268740099|268739843
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280,1134,Thorigny,268739864
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1300,8 mai 1945,268767005|268765981
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1011,Agora,268766985|268765961
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1086,Aunettes L.E.P.,268766978|268765954
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1022,Bois de l'Epine RER,268766977|268765953
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1078,Camille Guerin,268766979|268765955
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,2276,Centre Commercial,268767019
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1336,Champagne,268766995|268765971
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1146,Chemin de la Joute,268766993|268765969
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1349,Cimetiere,268767013
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1053,Clinique,268766981|268765957
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1613,Complexe Sportif,268766997|268765973
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1360,Cottage,268767021
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1364,Dame du Lac,268766992|268765968
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1640,Evry Courcouronnes Centre RER,268766986|268765962
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1028,Exona,268767003|268765979
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1246,Félicien Rops,268767016
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,0,Gare RER,268765988
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,2261,Gare RER,268767012
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1115,Gaspéri,268766990|268765966
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,2256,Général de Gaulle,268767010|268765986
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1396,Gustave Courbet,268767011|268765987
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1216,Henri Dunant,268767026
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1402,Henri Matisse,268767008|268765984
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1190,Jacques Prevert,268766983|268765959
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1059,JM.Djibaou,268766989|268765965
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1449,L'Eglantier,268767000|268765976
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,2275,Léon Blum,268767009|268765985
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1242,Léon Cassé,268767020
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1056,Les Estudines,268766988|268765964
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1400,Les Hauts Cornuts,268767001|268765977
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1470,Les Longaines,268767002|268765978
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1142,Les Malines,268766996|268765972
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1004,Les Miroirs,268766984|268765960
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1478,Les Peupliers,268766994|268765970
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1620,Les Tours,268767024
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1488,Louis Drevet,268767022
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,2279,Lycée,268767006|268765982
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1057,Lycée Parc des Loges,268766980|268765956
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1657,Mairie,268766998|268765974
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1496,Maison de l'Enfance,268766999|268765975
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1015,Marques Avenue,268767004|268765980
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1082,Maurice Genevoix,268766982|268765958
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1504,MJC,268767017
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1064,Monseigneur Roméro,268766987|268765963
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,2288,Pablo Picasso,268767007|268765983
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1512,Parc Chantemerle,268767018
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,2284,Parking Crêté,268767015
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1521,Petite Montagne,268766991|268765967
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1658,Salvador Allende,268767023
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,2283,Sous-Préfecture,268767014
+405,405,A,Corbeil-Essonnes Henri Dunant,13260,1586,Square,268767025
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1301,8 mai 1945,268799239|268800021
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1009,Agora,268799259|268800041
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1087,Aunettes L.E.P.,268799266|268800048
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1597,Bois de l'Epine RER,268799267|268800049
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1079,Camille Guérin,268799265|268800047
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1211,Centre Commercial,268800008
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1337,Champagne,268799249|268800031
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1145,Chemin de la Joute,268799251|268800033
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1350,Cimetiere,268800014
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1054,Clinique,268799263|268800045
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1357,Collège Senghor,268799237|268800019
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1147,Complexe Sportif,268799247|268800029
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1361,Cottage,268800006
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1363,Dame du Lac,268799252|268800034
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1117,Evry Courcouronnes Centre RER,268799258|268800040
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1027,Exona,268799241|268800023
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1614,Félicien Rops,268800011
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,2266,Gare RER,268799233|268800015
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1035,Gaspéri,268799254|268800036
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1390,Gauguin,268799236|268800018
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,2259,Général de Gaulle,268799235|268800017
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1397,Gustave Courbet,268799234|268800016
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1216,Henri Dunant,268800001
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1191,Jacques Prevert,268799261|268800043
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1060,JM.Djibaou,268799255|268800037
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1450,L'Eglantier,268799244|268800026
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1243,Léon Cassé,268800007
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1055,Les Estudines,268799256|268800038
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1401,Les Hauts Cornuts,268799243|268800025
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1471,Les Longaines,268799242|268800024
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1141,Les Malines,268799248|268800030
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1001,Les Miroirs,268799260|268800042
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1479,Les Peupliers,268799250|268800032
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,2282,Les Tours,268800003
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1489,Louis Drevet,268800005
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,2280,Lycée,268799238|268800020
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1058,Lycée Parc des Loges,268799264|268800046
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1656,Mairie,268799246|268800028
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1497,Maison de l'Enfance,268799245|268800027
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1014,Marques Avenue,268799240|268800022
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1083,Maurice Genevoix,268799262|268800044
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1505,MJC,268800010
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1065,Monseigneur Roméro,268799257|268800039
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1513,Parc Chantemerle,268800009
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,2285,Parking Crêté,268800012
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1520,Petite Montagne,268799253|268800035
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,2287,Salvador Allende,268800004
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1621,Sous-Préfecture,268800013
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260,1587,Square,268800002
+406,406,A,Bondoufle Imprimerie Nationale,13408563,1024,Bois de l'Epine RER,268829953
+406,406,A,Bondoufle Imprimerie Nationale,13408563,1421,Joliot - Curie,268829955|268829441
+406,406,A,Bondoufle Imprimerie Nationale,13408563,1536,Pomponne,268829954
+406,406,A,Bondoufle Imprimerie Nationale,13408563,1659,ZA Bois de L'Epine,268829956|268829442
+406,406,R,Ris-Orangis Bois de l'Epine,13408563,1024,Bois de l'Epine RER,268862467
+406,406,R,Ris-Orangis Bois de l'Epine,13408563,1537,Pomponne,268862466
+406,406,R,Ris-Orangis Bois de l'Epine,13408563,1659,ZA Bois de L'Epine,268862465
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1009,Agora,268896007|268896263
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1544,Auguste Plat,268906504
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1116,Aunettes,268896001|268896257
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1312,Avenue de l'Essonne,268906500
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1599,Bois Guillaume,268896014|268896270
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1606,CC Ferme du Temple,268906503
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1604,Centre Cial les Aunettes,268906499
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1097,Champs-Elysées Gd Bourg,268906497|268896012|268896268
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1365,Daumesnil,268896017
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1616,Edmond Bonté,268896019
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1117,Evry Courcouronnes Centre RER,268896006|268896262
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1631,Fauvettes,268906501
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1119,Gare Val de Ris,268896020
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1398,Gutenberg,268906498|268896013|268896269
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1378,Hameaux de la Roche,268896016
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1191,Jacques Prevert,268896009|268896265
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1440,La Fontaine,268896018
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1055,Les Estudines,268896004|268896260
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1001,Les Miroirs,268896008|268896264
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1065,Monseigneur Roméro,268896005|268896261
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1073,Nouveaux Champs,268896010|268896266
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1061,Place des Aunettes,268896003|268896259
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1093,Ratisbonne,268896011|268896267
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1553,Route de Mennecy,268896015|268896271
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1567,Rue du Temple,268906502
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1664,Sacré-Coeur,268906506
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1653,Salvador Allende,268906505
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820,1050,Yerres Louise Michel,268896002|268896258
+407,407,R,Evry Aunettes,3407820,1011,Agora,268929294|268929545
+407,407,R,Evry Aunettes,3407820,1544,Auguste Plat,268939526
+407,407,R,Evry Aunettes,3407820,1116,Aunettes,268929300|268929551
+407,407,R,Evry Aunettes,3407820,1312,Avenue de l'Essonne,268939522
+407,407,R,Evry Aunettes,3407820,1600,Bois Guillaume,268929287|268929538
+407,407,R,Evry Aunettes,3407820,1606,CC Ferme du Temple,268939525
+407,407,R,Evry Aunettes,3407820,1604,Centre Cial les Aunettes,268939521
+407,407,R,Evry Aunettes,3407820,1605,Centre Cial les Aunettes,268929285
+407,407,R,Evry Aunettes,3407820,1096,Champs-Elysées Gd Bourg,268929289|268929540|268939530
+407,407,R,Evry Aunettes,3407820,1366,Daumesnil,268929284
+407,407,R,Evry Aunettes,3407820,1617,Edmond Bonté,268929282
+407,407,R,Evry Aunettes,3407820,1640,Evry Courcouronnes Centre RER,268929295|268929546
+407,407,R,Evry Aunettes,3407820,1631,Fauvettes,268939523
+407,407,R,Evry Aunettes,3407820,1119,Gare Val de Ris,268929281
+407,407,R,Evry Aunettes,3407820,1399,Gutenberg,268929288|268929539|268939529
+407,407,R,Evry Aunettes,3407820,1190,Jacques Prevert,268929292|268929543
+407,407,R,Evry Aunettes,3407820,1441,La Fontaine,268929283
+407,407,R,Evry Aunettes,3407820,1056,Les Estudines,268929297|268929548
+407,407,R,Evry Aunettes,3407820,1002,Les Miroirs,268929293|268929544
+407,407,R,Evry Aunettes,3407820,1064,Monseigneur Roméro,268929296|268929547
+407,407,R,Evry Aunettes,3407820,1074,Nouveaux Champs,268929291|268929542
+407,407,R,Evry Aunettes,3407820,1660,Place des Aunettes,268929298|268929549
+407,407,R,Evry Aunettes,3407820,1092,Ratisbonne,268929290|268929541
+407,407,R,Evry Aunettes,3407820,1554,Route de Mennecy,268929286|268929537
+407,407,R,Evry Aunettes,3407820,1567,Rue du Temple,268939524
+407,407,R,Evry Aunettes,3407820,1664,Sacré-Coeur,268939528
+407,407,R,Evry Aunettes,3407820,1653,Salvador Allende,268939527
+407,407,R,Evry Aunettes,3407820,1661,Yerres Louise Michel,268929299|268929550
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1189,Beauvoir,268964122
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1233,Blaise Pascal -,268964102
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1330,Bonhomme en Pierre,268964121
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,0,Bras de Fer RER,268964125
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1072,Bras de Fer RER,268964097
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1096,Champs-Elysées Gd Bourg,268964110
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1054,Clinique,268964108
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1227,College Paul Elu,268964098
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1239,Evry-Courcouronn,268964101
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1627,Evry Val de Seine,268964119
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1237,Facteur Cheval,268964104
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1633,Foyer Club,268964118
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1399,Gutenberg,268964109
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1229,Institut de Biol,268964099
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1427,Jules Vallès,268964106
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1452,Le Grippet,268964124
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1108,Le Parc,268964112
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1235,Les Arenes,268964103
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1481,Les Tourelles,268964123
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1666,Mairie Annexe,268964117
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1083,Maurice Genevoix,268964107
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1510,Nowy Targ,268964115
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1668,Patton - Mousseau,268964120
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1523,Petit Bois,268964114
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1092,Ratisbonne,268964111
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1549,Rosenberg,268964105
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1551,Rossini,268964116
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1110,Rue d'Antin,268964113
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1231,Sabatier,268964100
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1188,Beauvoir,268997124
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1234,Blaise Pascal -,268997145
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1329,Bonhomme en Pierre,268997125
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,0,Bras de Fer RER,268997150
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1636,Bras de Fer RER,268997121
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1097,Champs-Elysées Gd Bourg,268997137
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1338,Champtier du Coq,268997133
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1053,Clinique,268997139
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1228,College Paul Elu,268997149
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1240,Evry-Courcouronn,268997146
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1626,Evry Val de Seine,268997127
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1238,Facteur Cheval,268997143
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1632,Foyer Club,268997128
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1398,Gutenberg,268997138
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1230,Institut de Biol,268997148
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1429,Jules Vallès,268997141
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1451,Le Grippet,268997122
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1109,Le Parc,268997135
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1236,Les Arenes,268997144
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1480,Les Tourelles,268997123
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1665,Mairie Annexe,268997129
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1082,Maurice Genevoix,268997140
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1509,Nowy Targ,268997131
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1667,Patton - Mousseau,268997126
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1522,Petit Bois,268997132
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1093,Ratisbonne,268997136
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1548,Rosenberg,268997142
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1550,Rossini,268997130
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1111,Rue d'Antin,268997134
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1232,Sabatier,268997147
+409,409,A,Fleury-Mérogis Clément Ader,39168,1323,Bois Bailleul,269025800|269027848|269026065
+409,409,A,Fleury-Mérogis Clément Ader,39168,1026,Centre Commercial,269026049
+409,409,A,Fleury-Mérogis Clément Ader,39168,1337,Champagne,269026058
+409,409,A,Fleury-Mérogis Clément Ader,39168,1341,Chemin du Vexin,269026060
+409,409,A,Fleury-Mérogis Clément Ader,39168,0,Clément Ader,269027855
+409,409,A,Fleury-Mérogis Clément Ader,39168,1147,Complexe Sportif,269025796|269027844|269026056
+409,409,A,Fleury-Mérogis Clément Ader,39168,1669,Ferme des Folies,269025798|269027846
+409,409,A,Fleury-Mérogis Clément Ader,39168,1407,IKEA,269026052
+409,409,A,Fleury-Mérogis Clément Ader,39168,1503,La Mare aux Moules,269027852
+409,409,A,Fleury-Mérogis Clément Ader,39168,1138,La Vanne,269026062
+409,409,A,Fleury-Mérogis Clément Ader,39168,1450,L'Eglantier,269025793|269027841|269026053
+409,409,A,Fleury-Mérogis Clément Ader,39168,1455,Le Lunain,269026061
+409,409,A,Fleury-Mérogis Clément Ader,39168,1671,Léonard de Vinci,269025797|269027845
+409,409,A,Fleury-Mérogis Clément Ader,39168,1459,Les Bocages,269026063
+409,409,A,Fleury-Mérogis Clément Ader,39168,1032,Les Brateaux,269026050
+409,409,A,Fleury-Mérogis Clément Ader,39168,1356,Les Closeaux St Spire,269027853
+409,409,A,Fleury-Mérogis Clément Ader,39168,1141,Les Malines,269026057
+409,409,A,Fleury-Mérogis Clément Ader,39168,1479,Les Peupliers,269026059
+409,409,A,Fleury-Mérogis Clément Ader,39168,1124,Les Quinconges,269027851
+409,409,A,Fleury-Mérogis Clément Ader,39168,1126,Les Remises,269027850
+409,409,A,Fleury-Mérogis Clément Ader,39168,1484,Les Vergers,269025799|269027847|269026064
+409,409,A,Fleury-Mérogis Clément Ader,39168,1656,Mairie,269025795|269027843|269026055
+409,409,A,Fleury-Mérogis Clément Ader,39168,1497,Maison de l'Enfance,269025794|269027842|269026054
+409,409,A,Fleury-Mérogis Clément Ader,39168,1121,Marinière Lycée,269025801|269027849|269026066
+409,409,A,Fleury-Mérogis Clément Ader,39168,1525,Petits Champs,269026051
+409,409,A,Fleury-Mérogis Clément Ader,39168,1595,Z.I. des Ciroliers,269027854
+409,409,R,Villabé Centre Commercial,39168,1324,Bois Bailleul,269060354|269060872|269059330|269059842|269059586
+409,409,R,Villabé Centre Commercial,39168,1607,Centre Commercial,269059341|269059858
+409,409,R,Villabé Centre Commercial,39168,1336,Champagne,269060361|269059849
+409,409,R,Villabé Centre Commercial,39168,1340,Chemin du Vexin,269060359|269059847
+409,409,R,Villabé Centre Commercial,39168,1352,Clément Ader,269060865
+409,409,R,Villabé Centre Commercial,39168,1613,Complexe Sportif,269060363|269060876|269059334|269059851|269059590|269060099
+409,409,R,Villabé Centre Commercial,39168,1670,Ferme des Folies,269060874|269059332|269059588|269060097
+409,409,R,Villabé Centre Commercial,39168,1408,IKEA,269059338|269059855
+409,409,R,Villabé Centre Commercial,39168,1502,La Mare aux Moules,269060868
+409,409,R,Villabé Centre Commercial,39168,1137,La Vanne,269060357|269059845
+409,409,R,Villabé Centre Commercial,39168,1449,L'Eglantier,269060366|269060879|269059337|269059854|269059593|269060102
+409,409,R,Villabé Centre Commercial,39168,1456,Le Lunain,269060358|269059846
+409,409,R,Villabé Centre Commercial,39168,1672,Léonard de Vinci,269060875|269059333|269059589|269060098
+409,409,R,Villabé Centre Commercial,39168,1460,Les Bocages,269060356|269059844
+409,409,R,Villabé Centre Commercial,39168,1031,Les Brateaux,269059340|269059857
+409,409,R,Villabé Centre Commercial,39168,1355,Les Closeaux St Spire,269060867
+409,409,R,Villabé Centre Commercial,39168,1142,Les Malines,269060362|269059850
+409,409,R,Villabé Centre Commercial,39168,1478,Les Peupliers,269060360|269059848
+409,409,R,Villabé Centre Commercial,39168,1123,Les Quinconges,269060869
+409,409,R,Villabé Centre Commercial,39168,1125,Les Remises,269060870
+409,409,R,Villabé Centre Commercial,39168,1485,Les Vergers,269060355|269060873|269059331|269059843|269059587
+409,409,R,Villabé Centre Commercial,39168,1657,Mairie,269060364|269060877|269059335|269059852|269059591|269060100
+409,409,R,Villabé Centre Commercial,39168,1496,Maison de l'Enfance,269060365|269060878|269059336|269059853|269059592|269060101
+409,409,R,Villabé Centre Commercial,39168,1120,Marinière Lycée,269060353|269060871|269059329|269059841|269059585
+409,409,R,Villabé Centre Commercial,39168,1524,Petits Champs,269059339|269059856
+409,409,R,Villabé Centre Commercial,39168,1596,Z.I. des Ciroliers,269060866
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1320,Beau Rivage,269243657|269243908
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1609,Chemin de Halage,269243652
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1610,Chemin de Halage,269243656|269243907
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1628,Eglise,269243651
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1629,Eglise,269243659|269243909
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1637,Gabrielle d'Estrées,269243663|269243913|269244166|269240835
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1558,Halte SNCF,269243658
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1675,La Justice,269243660|269243910|269244163
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1377,Le Couday Montceaux Les Griottes,269243649|269244161
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1643,Le Golf,269243650|269244162
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1677,Libellules 1,269243653
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1678,Libellules 1,269243655|269243906
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1679,Libellules 2,269243654|269243905
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1224,Mairie,269243662|269243912|269244165|269240834
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443,1225,Terminal David Douillet,269243661|269243911|269244164|269240833
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1320,Beau Rivage,269277196
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1609,Chemin de Halage,269277191|269277447
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1610,Chemin de Halage,269277195
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1628,Eglise,269277189|269277445
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1629,Eglise,269277197
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1637,Gabrielle d'Estrées,269277697|269277185|269277441|269274625
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1558,Halte SNCF,269277190|269277446
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1405,La Guiche,269277702|269277199
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1676,La Justice,269277700|269277188|269277444
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1377,Le Couday Montceaux Les Griottes,269277703|269277200
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1644,Le Golf,269277701|269277198
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1677,Libellules 1,269277192|269277448
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1678,Libellules 1,269277194
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1679,Libellules 2,269277193|269277449
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,2268,Mairie,269277698|269277186|269277442|269274626
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443,1225,Terminal David Douillet,269277699|269277187|269277443|269274627
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1306,Arnaud Massy,269292059
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1545,Auguste Plat,269292038|269290758
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1021,Bois de l'Epine RER,269292040|269290760
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1605,Centre Cial les Aunettes,269292033|269290753
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1345,Cimetiere,269292046|269290766
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1434,Cimetiere,269292053
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1365,Daumesnil,269292035|269290755
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1375,Edouard Branly,269292045|269290765
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1381,Faisanderie,269292049
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1386,Gabriel Jaillard,269292056
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1378,Hameaux de la Roche,269292034|269290754
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1406,Hôtel de Ville,269292052
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1409,Imprimerie Nationale,269292060
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1413,Jean Mermoz,269292043|269290763
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1140,La Garenne,269292044|269290764
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1651,La Mare à Pilatre,269292039|269290759
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1025,Les Coccinelles,269292055
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1465,Les Demoiselles,269292051
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1474,Les Petits Bois,269292058
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1482,Les Trois Parts,269292057
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1487,Louis Bourdet,269292047|269290767
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1498,Maisons du Golf,269292050
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1038,Marchais Guesdon,269292041|269290761
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1121,Marinière Lycée,269292048|269290768
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1043,Orme à Martin,269292042|269290762
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1570,Rue du Clos,269292054
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1662,Sacré-Coeur,269292036|269290756
+413,413,A,Bondoufle Imprimerie Nationale,16777011,1654,Salvador Allende,269292037|269290757
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1307,Arnaud Massy,269323266
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1544,Auguste Plat,269323285
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1313,Avenue de l'Essonne,269323288
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1024,Bois de l'Epine RER,269323283
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1605,Centre Cial les Aunettes,269323289
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1344,Cimetiere,269323277
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1374,Edouard Branly,269323278
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1382,Faisanderie,269323274
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1387,Gabriel Jaillard,269323269
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1391,George Sand,269323287
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1409,Imprimerie Nationale,269323265
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1414,Jean Mermoz,269323280
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1139,La Garenne,269323279
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1650,La Mare à Pilatre,269323284
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1464,Les Coccinelles,269323270
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1466,Les Demoiselles,269323272
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1475,Les Petits Bois,269323267
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1483,Les Trois Parts,269323268
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1486,Louis Bourdet,269323276
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1499,Maisons du Golf,269323273
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1039,Marchais Guesdon,269323282
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1121,Marinière Lycée,269323275
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1042,Orme à Martin,269323281
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1018,Rue du Clos,269323271
+413,413,R,Ris-Orangis Cial Aunettes,16777011,1653,Salvador Allende,269323286
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1306,Arnaud Massy,269356565|269353493
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1314,Avenue du Lac,269356548|269353476
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1323,Bois Bailleul,269356558|269353486
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1325,Bois Briard,269356549|269353477
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1146,Chemin de la Joute,269359365
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1380,Eurocontrol,269356572
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1622,Evry Courcouronnes Centre RER,269356545|269353473|269359361
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1381,Faisanderie,269356559|269353487
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1641,Général de Gaulle,269356563|269353491
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1409,Imprimerie Nationale,269356566|269353494|269359367
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1411,Jean Mermoz,269356551|269353479
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1059,JM.Djibaou,269359364
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1140,La Garenne,269356552|269353480
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1448,La Tremblaie,269356570|269353498
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1138,La Vanne,269356555|269353483
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1455,Le Lunain,269359366
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1459,Les Bocages,269356556|269353484
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1465,Les Demoiselles,269356561|269353489
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1056,Les Estudines,269356547|269353475|269359363
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1476,Les Petits Bois,269356564|269353492
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1484,Les Vergers,269356557|269353485
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1680,Mairie,269356554|269353482
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1498,Maisons du Golf,269356560|269353488
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1334,Mare aux Joncs,269356571
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1064,Monseigneur Roméro,269356546|269353474|269359362
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1516,Parc de Tréville,269359368
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1526,Pierre Marcille,269356562|269353490
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1655,Saint Guénault,269356550|269353478
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1133,Thorigny,269356553|269353481
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1682,ZI Bordes Nord,269356569|269353497
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1684,ZI Bordes Sud,269356567|269353495
+414,414,A,Le Plessis-Paté La Tremblaie,16724940,1593,ZI Gustave Madiot,269356568|269353496
+414,414,R,Evry-Courcouronnes Centre,16724940,1307,Arnaud Massy,269387014|269389576
+414,414,R,Evry-Courcouronnes Centre,16724940,1315,Avenue du Lac,269387032|269389594
+414,414,R,Evry-Courcouronnes Centre,16724940,1324,Bois Bailleul,269387022|269389584
+414,414,R,Evry-Courcouronnes Centre,16724940,1326,Bois Briard,269387031|269389593
+414,414,R,Evry-Courcouronnes Centre,16724940,1145,Chemin de la Joute,269387268
+414,414,R,Evry-Courcouronnes Centre,16724940,1380,Eurocontrol,269389569
+414,414,R,Evry-Courcouronnes Centre,16724940,1143,Evry Courcouronnes Centre RER,269387035|269389597|269387272
+414,414,R,Evry-Courcouronnes Centre,16724940,1382,Faisanderie,269387021|269389583
+414,414,R,Evry-Courcouronnes Centre,16724940,1642,Général de Gaulle,269387016|269389578
+414,414,R,Evry-Courcouronnes Centre,16724940,1409,Imprimerie Nationale,269387013|269389575|269387266
+414,414,R,Evry-Courcouronnes Centre,16724940,1412,Jean Mermoz,269387029|269389591
+414,414,R,Evry-Courcouronnes Centre,16724940,1060,JM.Djibaou,269387269
+414,414,R,Evry-Courcouronnes Centre,16724940,1139,La Garenne,269387028|269389590
+414,414,R,Evry-Courcouronnes Centre,16724940,1447,La Tremblaie,269387009|269389571
+414,414,R,Evry-Courcouronnes Centre,16724940,1137,La Vanne,269387025|269389587
+414,414,R,Evry-Courcouronnes Centre,16724940,1456,Le Lunain,269387267
+414,414,R,Evry-Courcouronnes Centre,16724940,1460,Les Bocages,269387024|269389586
+414,414,R,Evry-Courcouronnes Centre,16724940,1466,Les Demoiselles,269387019|269389581
+414,414,R,Evry-Courcouronnes Centre,16724940,1055,Les Estudines,269387033|269389595|269387270
+414,414,R,Evry-Courcouronnes Centre,16724940,1477,Les Petits Bois,269387015|269389577
+414,414,R,Evry-Courcouronnes Centre,16724940,1485,Les Vergers,269387023|269389585
+414,414,R,Evry-Courcouronnes Centre,16724940,1681,Mairie,269387026|269389588
+414,414,R,Evry-Courcouronnes Centre,16724940,1499,Maisons du Golf,269387020|269389582
+414,414,R,Evry-Courcouronnes Centre,16724940,1335,Mare aux Joncs,269389570
+414,414,R,Evry-Courcouronnes Centre,16724940,1065,Monseigneur Roméro,269387034|269389596|269387271
+414,414,R,Evry-Courcouronnes Centre,16724940,1516,Parc de Tréville,269387265
+414,414,R,Evry-Courcouronnes Centre,16724940,1663,Pasteur,269387018|269389580
+414,414,R,Evry-Courcouronnes Centre,16724940,1527,Pierre Marcille,269387017|269389579
+414,414,R,Evry-Courcouronnes Centre,16724940,1128,Saint Guénault,269387030|269389592
+414,414,R,Evry-Courcouronnes Centre,16724940,1134,Thorigny,269387027|269389589
+414,414,R,Evry-Courcouronnes Centre,16724940,1683,ZI Bordes Nord,269387010|269389572
+414,414,R,Evry-Courcouronnes Centre,16724940,1685,ZI Bordes Sud,269387012|269389574
+414,414,R,Evry-Courcouronnes Centre,16724940,1594,ZI Gustave Madiot,269387011|269389573
+415,415,A,Villabé Gare SNCF,6697728,1310,Aubépine,269419789
+415,415,A,Villabé Gare SNCF,6697728,1321,Bel Air,269419788
+415,415,A,Villabé Gare SNCF,6697728,1327,Bois Chaland,269419785
+415,415,A,Villabé Gare SNCF,6697728,1607,Centre Commercial,269419793
+415,415,A,Villabé Gare SNCF,6697728,1348,Cimetiere,269419795
+415,415,A,Villabé Gare SNCF,6697728,1354,Clos aux Pois,269419787
+415,415,A,Villabé Gare SNCF,6697728,1367,Dauphiné,269419784
+415,415,A,Villabé Gare SNCF,6697728,1105,Evry Courcouronnes Centre RER,269419777
+415,415,A,Villabé Gare SNCF,6697728,1115,Gaspéri,269419781
+415,415,A,Villabé Gare SNCF,6697728,1408,IKEA,269419790
+415,415,A,Villabé Gare SNCF,6697728,1059,JM.Djibaou,269419780
+415,415,A,Villabé Gare SNCF,6697728,1031,Les Brateaux,269419792
+415,415,A,Villabé Gare SNCF,6697728,1056,Les Estudines,269419779
+415,415,A,Villabé Gare SNCF,6697728,1686,Mairie,269419794
+415,415,A,Villabé Gare SNCF,6697728,1064,Monseigneur Roméro,269419778
+415,415,A,Villabé Gare SNCF,6697728,1521,Petite Montagne,269419782
+415,415,A,Villabé Gare SNCF,6697728,1542,Petite Montagne Sud,269419783
+415,415,A,Villabé Gare SNCF,6697728,1524,Petits Champs,269419791
+415,415,A,Villabé Gare SNCF,6697728,1218,Pyrénées,269419786
+415,415,A,Villabé Gare SNCF,6697728,1030,Villabé Gare SNCF,269419796
+415,415,R,Evry-Courcouronnes Centre,6697728,1311,Aubépine,269452807
+415,415,R,Evry-Courcouronnes Centre,6697728,1322,Bel Air,269452808
+415,415,R,Evry-Courcouronnes Centre,6697728,1328,Bois Chaland,269452811
+415,415,R,Evry-Courcouronnes Centre,6697728,1026,Centre Commercial,269452803
+415,415,R,Evry-Courcouronnes Centre,6697728,1354,Clos aux Pois,269452809
+415,415,R,Evry-Courcouronnes Centre,6697728,1368,Dauphiné,269452812
+415,415,R,Evry-Courcouronnes Centre,6697728,1143,Evry Courcouronnes Centre RER,269452819
+415,415,R,Evry-Courcouronnes Centre,6697728,1035,Gaspéri,269452815
+415,415,R,Evry-Courcouronnes Centre,6697728,1407,IKEA,269452806
+415,415,R,Evry-Courcouronnes Centre,6697728,1060,JM.Djibaou,269452816
+415,415,R,Evry-Courcouronnes Centre,6697728,1032,Les Brateaux,269452804
+415,415,R,Evry-Courcouronnes Centre,6697728,1055,Les Estudines,269452817
+415,415,R,Evry-Courcouronnes Centre,6697728,1029,Mairie,269452802
+415,415,R,Evry-Courcouronnes Centre,6697728,1065,Monseigneur Roméro,269452818
+415,415,R,Evry-Courcouronnes Centre,6697728,1520,Petite Montagne,269452814
+415,415,R,Evry-Courcouronnes Centre,6697728,1543,Petite Montagne Sud,269452813
+415,415,R,Evry-Courcouronnes Centre,6697728,1525,Petits Champs,269452805
+415,415,R,Evry-Courcouronnes Centre,6697728,1219,Pyrénées,269452810
+415,415,R,Evry-Courcouronnes Centre,6697728,1030,Villabé Gare SNCF,269452801
+416,416,A,Lisses Ferme des Folies,6697830,1327,Bois Chaland,269484809
+416,416,A,Lisses Ferme des Folies,6697830,1367,Dauphiné,269484808
+416,416,A,Lisses Ferme des Folies,6697830,1105,Evry Courcouronnes Centre RER,269484801
+416,416,A,Lisses Ferme des Folies,6697830,1384,Ferme de Place,269484810
+416,416,A,Lisses Ferme des Folies,6697830,0,Ferme des Folies,269484814
+416,416,A,Lisses Ferme des Folies,6697830,1115,Gaspéri,269484805
+416,416,A,Lisses Ferme des Folies,6697830,1059,JM.Djibaou,269484804
+416,416,A,Lisses Ferme des Folies,6697830,1671,Léonard de Vinci,269484813
+416,416,A,Lisses Ferme des Folies,6697830,1056,Les Estudines,269484803
+416,416,A,Lisses Ferme des Folies,6697830,1495,Mona Lisa,269484811
+416,416,A,Lisses Ferme des Folies,6697830,1064,Monseigneur Roméro,269484802
+416,416,A,Lisses Ferme des Folies,6697830,1521,Petite Montagne,269484806
+416,416,A,Lisses Ferme des Folies,6697830,1542,Petite Montagne Sud,269484807
+416,416,A,Lisses Ferme des Folies,6697830,1493,Plaine a Migne,269484812
+416,416,R,Evry-Courcouronnes Centre,6697830,1328,Bois Chaland,269517830
+416,416,R,Evry-Courcouronnes Centre,6697830,1368,Dauphiné,269517831
+416,416,R,Evry-Courcouronnes Centre,6697830,1143,Evry Courcouronnes Centre RER,269517838
+416,416,R,Evry-Courcouronnes Centre,6697830,1385,Ferme de Place,269517829
+416,416,R,Evry-Courcouronnes Centre,6697830,0,Ferme des Folies,269517825
+416,416,R,Evry-Courcouronnes Centre,6697830,1035,Gaspéri,269517834
+416,416,R,Evry-Courcouronnes Centre,6697830,1060,JM.Djibaou,269517835
+416,416,R,Evry-Courcouronnes Centre,6697830,0,Leonard de Vinci,269517826
+416,416,R,Evry-Courcouronnes Centre,6697830,1055,Les Estudines,269517836
+416,416,R,Evry-Courcouronnes Centre,6697830,1494,Mona Lisa,269517828
+416,416,R,Evry-Courcouronnes Centre,6697830,1065,Monseigneur Roméro,269517837
+416,416,R,Evry-Courcouronnes Centre,6697830,1520,Petite Montagne,269517833
+416,416,R,Evry-Courcouronnes Centre,6697830,1543,Petite Montagne Sud,269517832
+416,416,R,Evry-Courcouronnes Centre,6697830,1492,Plaine a Migne,269517827
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1687,Auguste Plat-Sta,269616916|269617162
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1086,Aunettes L.E.P.,269616898|269616642
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1313,Avenue de l'Essonne,269616902|269616646
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1316,Avenue du Parc,269616911|269617157
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1088,Bois de l'Epine RER,269616641|269617163
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1605,Centre Cial les Aunettes,269616903|269616647
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1690,C.E.S. Albert Camus,269616912|269617412|269617158
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1351,Cimetiere,269616909|269617155
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1365,Daumesnil,269616905|269616649
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1383,Fauvettes,269616901|269616645
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1555,Gare Val de Ris RER,269616907|269617409|269616651|269617153
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1378,Hameaux de la Roche,269616904|269616648
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1691,Mairie,269616906|269616650
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1692,Maternelle Picasso,269616915|269617161
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1511,Notre Dame Rue du Clos,269616910|269617411|269617156
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1552,Route de Grigny,269616913|269617159
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1572,Rue des Perdrix,269616914|269617160
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1693,Rue de Strasbourg,269616899|269616643
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1577,Rue du Temple,269616900|269616644
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382,1578,Rue Gambetta,269616908|269617410|269617154
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1545,Auguste Plat,269681675
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1313,Avenue de l'Essonne,269681679
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1316,Avenue du Parc,269681669
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1333,CC Ferme du Temple,269681676
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1302,CC Moulin à Vent,269681674
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1605,Centre Cial les Aunettes,269681680
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1690,C.E.S. Albert Camus,269681670
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1339,Chemin du trousseau,269681684
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1351,Cimetiere,269681667
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1365,Daumesnil,269681687
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1376,Eglise Sacré Coeur,269681673
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1383,Fauvettes,269681678
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1555,Gare Val de Ris RER,269681665|269681689
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1379,Grand-Bourg,269681683
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1398,Gutenberg,269681685
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1399,Gutenberg,269681681
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1378,Hameaux de la Roche,269681686
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1647,Jean Jaurès,269681672
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1691,Mairie,269681688
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1511,Notre Dame Rue du Clos,269681668
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1552,Route de Grigny,269681671
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1577,Rue du Temple,269681677
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1578,Rue Gambetta,269681666
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057,1591,Vieux Cèdre,269681682
+420,420,A,Epinay Gare RER,26214,1419,Avenue Jean Merm,269747976
+420,420,A,Epinay Gare RER,26214,1317,Barbusse Cassin,269747983
+420,420,A,Epinay Gare RER,26214,1148,Cimetiere,269747986
+420,420,A,Epinay Gare RER,26214,1089,Gare RER,269747992
+420,420,A,Epinay Gare RER,26214,1208,Grigny Centre RE,269747969
+420,420,A,Epinay Gare RER,26214,1394,Guérinière,269747988
+420,420,A,Epinay Gare RER,26214,1571,Jean Moulin,269747977
+420,420,A,Epinay Gare RER,26214,1426,J.P. Timbaud,269747979
+420,420,A,Epinay Gare RER,26214,1438,La Ferme Neuve,269747972
+420,420,A,Epinay Gare RER,26214,1446,La Rivière,269747991
+420,420,A,Epinay Gare RER,26214,1635,La Serpente,269747974
+420,420,A,Epinay Gare RER,26214,1177,Le Damier,269747973
+420,420,A,Epinay Gare RER,26214,1135,Les Merisiers,269747984
+420,420,A,Epinay Gare RER,26214,1184,Les Solstices,269747975
+420,420,A,Epinay Gare RER,26214,1174,Mairie,269747971
+420,420,A,Epinay Gare RER,26214,1203,Mairie,269747987
+420,420,A,Epinay Gare RER,26214,1016,Marché Morsang,269747981
+420,420,A,Epinay Gare RER,26214,1172,Pablo Neruda,269747970
+420,420,A,Epinay Gare RER,26214,1532,Place Henri IV,269747980
+420,420,A,Epinay Gare RER,26214,1534,Place Marcel Sembat,269747982
+420,420,A,Epinay Gare RER,26214,1564,Rue de l'Egalité,269747989
+420,420,A,Epinay Gare RER,26214,1566,Rue de Morsang,269747990
+420,420,A,Epinay Gare RER,26214,1584,Square Jean Lurçat,269747985
+420,420,A,Epinay Gare RER,26214,1638,Voie de Compiègne,269747978
+420,420,R,Grigny Centre RER,26214,1420,Avenue Jean Merm,269781006
+420,420,R,Grigny Centre RER,26214,1318,Barbusse Cassin,269780999
+420,420,R,Grigny Centre RER,26214,1149,Cimetiere,269780997
+420,420,R,Grigny Centre RER,26214,1089,Gare RER,269780993
+420,420,R,Grigny Centre RER,26214,1392,Grand Vaux,269780994
+420,420,R,Grigny Centre RER,26214,0,Grigny Centre RE,269781013
+420,420,R,Grigny Centre RER,26214,1395,Gueriniere,269780995
+420,420,R,Grigny Centre RER,26214,1180,Jean Moulin,269781005
+420,420,R,Grigny Centre RER,26214,1425,J.P. Timbaud,269781003
+420,420,R,Grigny Centre RER,26214,1439,La Ferme Neuve,269781010
+420,420,R,Grigny Centre RER,26214,1175,La Serpente,269781008
+420,420,R,Grigny Centre RER,26214,1176,Le Damier,269781009
+420,420,R,Grigny Centre RER,26214,1136,Les Merisiers,269780998
+420,420,R,Grigny Centre RER,26214,1183,Les Solstices,269781007
+420,420,R,Grigny Centre RER,26214,1173,Mairie,269781011
+420,420,R,Grigny Centre RER,26214,1202,Mairie,269780996
+420,420,R,Grigny Centre RER,26214,1017,Marché Morsang,269781001
+420,420,R,Grigny Centre RER,26214,1171,Pablo Neruda,269781012
+420,420,R,Grigny Centre RER,26214,1533,Place Henri IV,269781002
+420,420,R,Grigny Centre RER,26214,1535,Place Marcel Sembat,269781000
+420,420,R,Grigny Centre RER,26214,1181,Voie de Compiègne,269781004

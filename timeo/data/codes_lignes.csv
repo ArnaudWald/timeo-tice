@@ -1,0 +1,33 @@
+code_ligne,nom_ligne,sens,vers,couleur
+401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711
+401,401,R,Corbeil-Essonnes Gare RER,13395711
+402,402,A,Viry-Châtillon La Treille,16711680
+402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680
+403,403,A,Evry-Courcouronnes Centre,16750899
+403,403,R,Soisy-sur-Seine Les Meillottes,16750899
+404,404,A,Evry Gare du Bras de Fer RER,65280
+404,404,R,Ris-Orangis Bois de l'Epine RER,65280
+405,405,A,Corbeil-Essonnes Henri Dunant,13260
+405,405,R,Ris-Orangis Bois de l'Epine RER,13260
+406,406,A,Bondoufle Imprimerie Nationale,13408563
+406,406,R,Ris-Orangis Bois de l'Epine,13408563
+407,407,A,Ris-Orangis Gare Val de Ris RER,3407820
+407,407,R,Evry Aunettes,3407820
+408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377
+408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377
+409,409,A,Fleury-Mérogis Clément Ader,39168
+409,409,R,Villabé Centre Commercial,39168
+412,412,A,Le Coudray-Montceaux Gabrielle d'Estrées,3355443
+412,412,R,Le Coudray-Montceaux Les Griottes,3355443
+413,413,A,Bondoufle Imprimerie Nationale,16777011
+413,413,R,Ris-Orangis Cial Aunettes,16777011
+414,414,A,Le Plessis-Paté La Tremblaie,16724940
+414,414,R,Evry-Courcouronnes Centre,16724940
+415,415,A,Villabé Gare SNCF,6697728
+415,415,R,Evry-Courcouronnes Centre,6697728
+416,416,A,Lisses Ferme des Folies,6697830
+416,416,R,Evry-Courcouronnes Centre,6697830
+418,418,A,Ris-Orangis Bois de l'Epine RER,65382
+419,419,A,Ris-Orangis Gare Val de Ris RER,16764057
+420,420,A,Epinay Gare RER,26214
+420,420,R,Grigny Centre RER,26214
