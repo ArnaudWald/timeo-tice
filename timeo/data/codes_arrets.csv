@@ -39,7 +39,6 @@ code_ligne,nom_ligne,sens,vers,couleur,code_arret,nom_arret,refs
 401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1047,Préfecture,268518922
 401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1205,Rond-Point de Fleury,268518942
 401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1019,Rond-Point Hopit,268518917
-401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,0,Rue Berlioz,268518957
 401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1099,Saint-Exupéry,268518920
 401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,1195,Saint Hubert,268518946
 401,401,A,Saint-Michel-sur-Orge Rue Berlioz,13395711,2255,Strathkelvin,268518916
@@ -57,7 +56,6 @@ code_ligne,nom_ligne,sens,vers,couleur,code_arret,nom_arret,refs
 401,401,R,Corbeil-Essonnes Gare RER,13395711,1461,Eperon,268551178
 401,401,R,Corbeil-Essonnes Gare RER,13395711,1143,Evry Courcouronnes Centre RER,268551200
 401,401,R,Corbeil-Essonnes Gare RER,13395711,1072,Gare du Bras de Fer RER,268551208
-401,401,R,Corbeil-Essonnes Gare RER,13395711,0,Gare RER,268551213
 401,401,R,Corbeil-Essonnes Gare RER,13395711,2256,Général de Gaulle,268551211
 401,401,R,Corbeil-Essonnes Gare RER,13395711,1396,Gustave Courbet,268551212
 401,401,R,Corbeil-Essonnes Gare RER,13395711,1370,Guy Moquet,268551176
@@ -107,8 +105,6 @@ code_ligne,nom_ligne,sens,vers,couleur,code_arret,nom_arret,refs
 402,402,A,Viry-Châtillon La Treille,16711680,1436,La Demi-Lune,268567044|268566788
 402,402,A,Viry-Châtillon La Treille,16711680,1562,La Ferme Neuve,268567325|268567581|268567079|268566823|268567820
 402,402,A,Viry-Châtillon La Treille,16711680,1650,La Mare à Pilatre,268567318|268567574|268567072|268566816|268567813
-402,402,A,Viry-Châtillon La Treille,16711680,0,La Treille,268567329|268566827|268567824
-402,402,A,Viry-Châtillon La Treille,16711680,0,La Treille-RD445,268567585|268567083
 402,402,A,Viry-Châtillon La Treille,16711680,1177,Le Damier,268567326|268567582|268567080|268566824|268567821
 402,402,A,Viry-Châtillon La Treille,16711680,1243,Léon Cassé,268567051|268566795
 402,402,A,Viry-Châtillon La Treille,16711680,2277,L'Ermitage,268567048|268566792
@@ -145,7 +141,6 @@ code_ligne,nom_ligne,sens,vers,couleur,code_arret,nom_arret,refs
 402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1114,Charles Robin,268601376|268607264
 402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1619,Evry Courcouronnes Centre RER,268600853|268601365|268601109|268607253
 402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1068,Gare du Bras de Fer RER,268600860|268601372|268601116|268607260
-402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,0,Gare RER,268601377|268607265
 402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1178,Grigny Centre RER,268600839|268601351|268601095|268607239
 402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1107,Hopital Sud Fran,268600861|268601373|268601117|268607261
 402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1647,Jean Jaurès,268600841|268601353|268601097|268607241
@@ -155,7 +150,6 @@ code_ligne,nom_ligne,sens,vers,couleur,code_arret,nom_arret,refs
 402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1563,La Ferme Neuve,268600837|268601349|268601093|268607237
 402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1651,La Mare à Pilatre,268600844|268601356|268601100|268607244
 402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1182,La Treille,268600833|268601345
-402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,0,La Treille-RD445,268601089|268607233
 402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1176,Le Damier,268600836|268601348|268601092|268607236
 402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,1242,Léon Cassé,268600865|268601121
 402,402,R,Le Coudray-Montceaux Terminal David Douillet,16711680,2278,L'Ermitage,268600868|268601124
@@ -346,7 +340,6 @@ code_ligne,nom_ligne,sens,vers,couleur,code_arret,nom_arret,refs
 405,405,A,Corbeil-Essonnes Henri Dunant,13260,1640,Evry Courcouronnes Centre RER,268766986|268765962
 405,405,A,Corbeil-Essonnes Henri Dunant,13260,1028,Exona,268767003|268765979
 405,405,A,Corbeil-Essonnes Henri Dunant,13260,1246,Félicien Rops,268767016
-405,405,A,Corbeil-Essonnes Henri Dunant,13260,0,Gare RER,268765988
 405,405,A,Corbeil-Essonnes Henri Dunant,13260,2261,Gare RER,268767012
 405,405,A,Corbeil-Essonnes Henri Dunant,13260,1115,Gaspéri,268766990|268765966
 405,405,A,Corbeil-Essonnes Henri Dunant,13260,2256,Général de Gaulle,268767010|268765986
@@ -496,7 +489,6 @@ code_ligne,nom_ligne,sens,vers,couleur,code_arret,nom_arret,refs
 408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1189,Beauvoir,268964122
 408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1233,Blaise Pascal -,268964102
 408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1330,Bonhomme en Pierre,268964121
-408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,0,Bras de Fer RER,268964125
 408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1072,Bras de Fer RER,268964097
 408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1096,Champs-Elysées Gd Bourg,268964110
 408,408,A,Evry-Courcouronnes Centre - Evry Val de Seine - Bras de Fer RER,52377,1054,Clinique,268964108
@@ -525,7 +517,6 @@ code_ligne,nom_ligne,sens,vers,couleur,code_arret,nom_arret,refs
 408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1188,Beauvoir,268997124
 408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1234,Blaise Pascal -,268997145
 408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1329,Bonhomme en Pierre,268997125
-408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,0,Bras de Fer RER,268997150
 408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1636,Bras de Fer RER,268997121
 408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1097,Champs-Elysées Gd Bourg,268997137
 408,408,R,Evry Val de Seine - Evry-Courcouronnes Centre - Bras de Fer RER,52377,1338,Champtier du Coq,268997133
@@ -556,7 +547,6 @@ code_ligne,nom_ligne,sens,vers,couleur,code_arret,nom_arret,refs
 409,409,A,Fleury-Mérogis Clément Ader,39168,1026,Centre Commercial,269026049
 409,409,A,Fleury-Mérogis Clément Ader,39168,1337,Champagne,269026058
 409,409,A,Fleury-Mérogis Clément Ader,39168,1341,Chemin du Vexin,269026060
-409,409,A,Fleury-Mérogis Clément Ader,39168,0,Clément Ader,269027855
 409,409,A,Fleury-Mérogis Clément Ader,39168,1147,Complexe Sportif,269025796|269027844|269026056
 409,409,A,Fleury-Mérogis Clément Ader,39168,1669,Ferme des Folies,269025798|269027846
 409,409,A,Fleury-Mérogis Clément Ader,39168,1407,IKEA,269026052
@@ -796,7 +786,6 @@ code_ligne,nom_ligne,sens,vers,couleur,code_arret,nom_arret,refs
 416,416,A,Lisses Ferme des Folies,6697830,1367,Dauphiné,269484808
 416,416,A,Lisses Ferme des Folies,6697830,1105,Evry Courcouronnes Centre RER,269484801
 416,416,A,Lisses Ferme des Folies,6697830,1384,Ferme de Place,269484810
-416,416,A,Lisses Ferme des Folies,6697830,0,Ferme des Folies,269484814
 416,416,A,Lisses Ferme des Folies,6697830,1115,Gaspéri,269484805
 416,416,A,Lisses Ferme des Folies,6697830,1059,JM.Djibaou,269484804
 416,416,A,Lisses Ferme des Folies,6697830,1671,Léonard de Vinci,269484813
@@ -810,10 +799,8 @@ code_ligne,nom_ligne,sens,vers,couleur,code_arret,nom_arret,refs
 416,416,R,Evry-Courcouronnes Centre,6697830,1368,Dauphiné,269517831
 416,416,R,Evry-Courcouronnes Centre,6697830,1143,Evry Courcouronnes Centre RER,269517838
 416,416,R,Evry-Courcouronnes Centre,6697830,1385,Ferme de Place,269517829
-416,416,R,Evry-Courcouronnes Centre,6697830,0,Ferme des Folies,269517825
 416,416,R,Evry-Courcouronnes Centre,6697830,1035,Gaspéri,269517834
 416,416,R,Evry-Courcouronnes Centre,6697830,1060,JM.Djibaou,269517835
-416,416,R,Evry-Courcouronnes Centre,6697830,0,Leonard de Vinci,269517826
 416,416,R,Evry-Courcouronnes Centre,6697830,1055,Les Estudines,269517836
 416,416,R,Evry-Courcouronnes Centre,6697830,1494,Mona Lisa,269517828
 416,416,R,Evry-Courcouronnes Centre,6697830,1065,Monseigneur Roméro,269517837
@@ -893,7 +880,6 @@ code_ligne,nom_ligne,sens,vers,couleur,code_arret,nom_arret,refs
 420,420,R,Grigny Centre RER,26214,1149,Cimetiere,269780997
 420,420,R,Grigny Centre RER,26214,1089,Gare RER,269780993
 420,420,R,Grigny Centre RER,26214,1392,Grand Vaux,269780994
-420,420,R,Grigny Centre RER,26214,0,Grigny Centre RE,269781013
 420,420,R,Grigny Centre RER,26214,1395,Gueriniere,269780995
 420,420,R,Grigny Centre RER,26214,1180,Jean Moulin,269781005
 420,420,R,Grigny Centre RER,26214,1425,J.P. Timbaud,269781003

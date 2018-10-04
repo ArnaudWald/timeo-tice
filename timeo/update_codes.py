@@ -40,6 +40,7 @@ def update_stop_codes(code_ligne, sens, filename):
     """
     Reload the csv with all the stop codes, names etc.
     """
+
     xml_stops = urllib.request.urlopen(get_url_stop_codes(code_ligne, sens))
     data_xml = xml_stops.read()
     xml_stops.close()
@@ -63,6 +64,8 @@ def update_stop_codes(code_ligne, sens, filename):
         data['nom_arret'].append(stop['nom'])
 
     data = pd.DataFrame.from_dict(data).astype('str')
+
+    data = data[data['code_arret'] != '0']
 
     if not os.path.isfile(filename):
         data.to_csv(filename, index=False)
