@@ -4,7 +4,7 @@ import pandas as pd
 import urllib
 import xmltodict
 
-from timeo.parameters import get_url_all_lines, get_url_stop_codes
+from parameters import get_url_all_lines, get_url_stop_codes
 
 
 def update_all_lines(filename):

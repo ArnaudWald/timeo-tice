@@ -1,50 +1,59 @@
 # -*- coding: utf-8 -*-
-import pandas as pd
-import urllib
-import xmltodict
-
-from timeo.parameters import get_url_times
+from get_passages import get_stops
+from use_cases import use_case_stop_code, use_case_stop_name, \
+    use_case_choose_line
 
 
-def get_lines():
-    df = pd.read_csv('timeo/data/codes_lignes.csv', index_col=False)
-    return df
+def print_intro():
+    print('')
+    print('Prochains bus')
+    print('=============')
+    print('Les horaires en temps réel')
+    print('')
+    print('Consulter les horaires de passage de vos bus :')
+    print('    0. Code arrêt')
+    print('  OU')
+    print("    1. Nom de l'arrêt")
+    print('  OU')
+    print('    2. Votre ligne')
+    print('  OU')
+    print('    3. Quitter')
+    print('')
 
 
-def get_stops():
-    df = pd.read_csv('timeo/data/codes_arrets.csv', index_col=False)
-
-    return df
-
-
-def find_refs(df_stops, code_arret):
-    return df_stops[df_stops.code_arret == code_arret]
-
-
-def get_times(ref_arret):
-
-    xml_times = urllib.request.urlopen(get_url_times(ref_arret))
-    data_xml = xml_times.read()
-    xml_times.close()
-
-    data_dict = xmltodict.parse(data_xml)
-    list_times = data_dict['xmldata']['horaires']['horaire']
-
-    description = list_times['description']
-    messages = list_times['messages']['message']
-    passages = list_times['passages']['passage']
-
-    return description, messages, passages
+def exit_input():
+    input("\nPressez n'importe quelle touche pour quitter... ")
 
 
 if __name__ == '__main__':
     df_stops = get_stops()
-    df_stops.dtypes
-    code_arret = 1139
-    df_stops[df_stops.code_arret == code_arret].refs
-    ref_arret = find_refs(df_stops, code_arret)
-    ref_arret
-    description, messages, passages = get_times(ref_arret)
-    messages
-    description
-    passages
+    reponse = None
+
+    print_intro()
+
+    while reponse != 3:
+        try:
+            reponse = int(input('Faites votre choix parmi les options ci-dessus : '))
+
+            if reponse == 0:
+                use_case_stop_code(df_stops)
+                exit_input()
+                break
+            elif reponse == 1:
+                use_case_stop_name(df_stops)
+                exit_input()
+                break
+            elif reponse == 2:
+                use_case_choose_line(df_stops)
+                exit_input()
+                break
+            elif reponse == 3:
+                break
+            else:
+                print('Entrée non valide')
+
+        except ValueError as e:
+            print(e)
+            print('Entrée non valide')
+
+    print('À bientôt !')

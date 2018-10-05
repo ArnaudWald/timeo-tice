@@ -41,7 +41,7 @@ def pretty_print_arrets(df):
 
 
 def time_difference(passage_):
-    fmt = '%I:%M'
+    fmt = '%H:%M'
 
     now_ = datetime.now().strftime(fmt)
     now_ = datetime.strptime(now_, fmt)
