@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from datetime import datetime
 
 
 def bounded_int_input(i_min, i_max):
@@ -39,28 +40,64 @@ def pretty_print_arrets(df):
     return 0, i-1
 
 
+def time_difference(passage_):
+    fmt = '%I:%M'
+
+    now_ = datetime.now().strftime(fmt)
+    now_ = datetime.strptime(now_, fmt)
+
+    passage_ = datetime.strptime(passage_, fmt)
+
+    diff = int((passage_ - now_).seconds / 60)
+
+    return diff
+
+
 def cli_display(description, messages, passages):
     """Text output"""
 
     print('\n-----DESCRIPTION-----')
-    print('Arrêt : {0} [CODE] : {1}'.format(description['arret'], description['code']))
-    print('Ligne {0}'.format(description['ligne_nom']))
+    print('▶️ Arrêt : {0}'.format(description['arret']))
+    print('▶️ Code : {0}'.format(description['code']))
+    print('▶️ Ligne {0}'.format(description['ligne_nom']))
 
-    # TODO: Ajouter "Passage dans XX minutes" si la durée est inférieure à 30 minutes
-    # TODO: Ajouter "Passage imminent" si la durée est inférieure à 2 minutes
     print('\n-----PASSAGES-----')
-    print('Prochain passage à {0} pour {1}'.format(passages[0]['duree'], passages[0]['destination']))
-    print('Passage suivant à {0} pour {1}'.format(passages[1]['duree'], passages[1]['destination']))
+    if len(passages) == 0:
+        print("Aucun horaire n'est actuellement disponible pour cet arrêt.")
+    for i, passage in enumerate(passages):
+        horaire = passages[i]['duree']
+        diff = time_difference(horaire)
+        if diff == 0:
+            print("Passage en cours", end='')
+        elif diff <= 2:
+            print("Passage imminent", end='')
+        else:
+            if i == 0:
+                print("Prochain passage", end='')
+            else:
+                print("Passage suivant", end='')
 
-    len(messages)
-    list(messages)
-    print(messages)
+            if diff < 60:
+                print(" dans {0} minutes".format(diff), end='')
+            else:
+                print(" à {0}".format(horaire), end='')
+
+        print(" pour {0}".format(passages[1]['destination']))
+
     if len(messages) > 0:
         print('\n-----MESSAGES-----')
-        if len(messages) > 1:
+        if isinstance(messages, list):
+            # Multiple messages
             for message in messages:
-                print("/!\\", message['titre'], ':')
-                print("\t", message['texte'])
+                if message['bloquant'] == 'true':
+                    print("❌", message['titre'], ':')
+                else:
+                    print("⚠️", message['titre'], ':')
+                print("    ", message['texte'])
         else:
-                print("/!\\", messages['titre'], ':')
-                print("\t", messages['texte'])
+            # Only one message
+            if messages['bloquant'] == 'true':
+                print("❌", messages['titre'], ':')
+            else:
+                print("⚠️", messages['titre'], ':')
+            print("    ", messages['texte'])
