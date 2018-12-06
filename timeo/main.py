@@ -23,11 +23,13 @@ def print_intro():
 
 
 def exit_input():
-    input("\nPressez n'importe quelle touche pour quitter... ")
+    input("\nAppuyez sur Entrée pour quitter... ")
 
 
 if __name__ == '__main__':
+
     df_stops = get_stops()
+
     reponse = None
 
     blocking_alerts = get_alerts(bloquant=True)
@@ -46,21 +48,24 @@ if __name__ == '__main__':
                 use_case_stop_code(df_stops)
                 exit_input()
                 break
+
             elif reponse == 1:
                 use_case_stop_name(df_stops)
                 exit_input()
                 break
+
             elif reponse == 2:
                 use_case_choose_line(df_stops)
                 exit_input()
                 break
+
             elif reponse == 3:
                 break
+
             else:
                 print('Entrée non valide')
 
         except ValueError as e:
-            print(e)
             print('Entrée non valide')
 
     print('À bientôt !')

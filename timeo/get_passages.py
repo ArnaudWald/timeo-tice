@@ -51,10 +51,13 @@ def get_times(ref_arret):
     description = list_times['description']
     try:
         messages = list_times['messages']['message']
+
     except KeyError:
-        messages
+        messages = []
+
     try:
         passages = list_times['passages']['passage']
+
     except KeyError:
         passages = []
 

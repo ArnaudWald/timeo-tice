@@ -28,9 +28,11 @@ def find_stops_from_code(df_stops, code_input, code_ligne=None,
             i_min, i_max = pretty_print_ligne(stops)
             code_ligne = stops.code_ligne.iloc[bounded_int_input(i_min, i_max)]
             return find_stops_from_code(df_stops, code_input, code_ligne, first_try=False)
+
         else:
             print('Erreur')
             return False
+
     else:
         # Only one possibility : return refs
         return stops.refs.iloc[0]
@@ -45,6 +47,7 @@ def find_stops_from_name(df_stops, name_input, code_ligne=None, sens=None,
 
     if code_ligne is not None:
         stops = stops[stops['code_ligne'] == code_ligne]
+
     if sens is not None:
         stops = stops[stops['sens'] == sens]
 
@@ -65,6 +68,7 @@ def find_stops_from_name(df_stops, name_input, code_ligne=None, sens=None,
                                         first_try_arret=False,
                                         first_try_ligne=first_try_ligne,
                                         first_try_sens=first_try_sens)
+
         else:
             print('Erreur')
             return False
@@ -85,6 +89,7 @@ def find_stops_from_name(df_stops, name_input, code_ligne=None, sens=None,
                                         first_try_arret=first_try_arret,
                                         first_try_ligne=False,
                                         first_try_sens=first_try_sens)
+
         else:
             print('Erreur')
             return False
@@ -104,9 +109,11 @@ def find_stops_from_name(df_stops, name_input, code_ligne=None, sens=None,
                                         first_try_arret=first_try_arret,
                                         first_try_ligne=first_try_ligne,
                                         first_try_sens=False)
+
         else:
             print('Erreur')
             return False
+
     else:
         # On renvoie la bonne data
         return stops.refs.iloc[0]
@@ -142,6 +149,7 @@ def use_case_stop_code(df_stops):
         try:
             stop_code_input = int(input('Entrez un code arrêt : '))
             ref_arret = find_stops_from_code(df_stops, stop_code_input)
+
         except ValueError:
             print("Veuillez saisir un code valide")
 
@@ -149,6 +157,7 @@ def use_case_stop_code(df_stops):
     if ref_arret is not False:
         description, messages, passages = get_times(ref_arret)
         cli_display(description, messages, passages)
+
     else:
         print('Echec')
 
@@ -168,6 +177,7 @@ def use_case_stop_name(df_stops):
     if ref_arret is not False:
         description, messages, passages = get_times(ref_arret)
         cli_display(description, messages, passages)
+
     else:
         print('Echec')
 
@@ -179,5 +189,6 @@ def use_case_choose_line(df_stops):
     if ref_arret is not False:
         description, messages, passages = get_times(ref_arret)
         cli_display(description, messages, passages)
+
     else:
         print('Echec')

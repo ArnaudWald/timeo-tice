@@ -69,6 +69,7 @@ def update_stop_codes(code_ligne, sens, filename):
 
     if not os.path.isfile(filename):
         data.to_csv(filename, index=False)
+
     else:
         data.to_csv(filename, mode='a', header=False, index=False)
 
@@ -80,6 +81,7 @@ if __name__ == '__main__':
     updated_lines = update_all_lines(filename)
 
     filename = 'timeo/data/codes_arrets.csv'
+
     if os.path.isfile(filename):
         os.remove(filename)
 
