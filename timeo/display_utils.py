@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from datetime import datetime
+from get_passages import get_alerts
 
 
 def bounded_int_input(i_min, i_max):
@@ -53,8 +54,26 @@ def time_difference(passage_):
     return diff
 
 
+def show_alerts(alerts, bloquant=True):
+
+    if alerts is not None:
+        if bloquant:
+            print("❌  Impossible d'utiliser le service actuellement ❌")
+            print("Motif :", alerts[0])
+            print(alerts[1])
+            exit()
+
+        else:
+            print("⚠️  En ce moment sur le réseau ⚠️")
+            print(alerts[0])
+            print(alerts[1])
+
+
 def cli_display(description, messages, passages):
     """Text output"""
+
+    other_alerts = get_alerts(bloquant=False)
+    show_alerts(other_alerts, bloquant=False)
 
     print('\n-----DESCRIPTION-----')
     print('▶️ Arrêt : {0}'.format(description['arret']))

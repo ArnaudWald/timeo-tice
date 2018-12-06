@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-from get_passages import get_stops
+from get_passages import get_stops, get_alerts
+from display_utils import show_alerts
 from use_cases import use_case_stop_code, use_case_stop_name, \
     use_case_choose_line
 
@@ -28,6 +29,12 @@ def exit_input():
 if __name__ == '__main__':
     df_stops = get_stops()
     reponse = None
+
+    blocking_alerts = get_alerts(bloquant=True)
+    show_alerts(blocking_alerts, bloquant=True)
+
+    other_alerts = get_alerts(bloquant=False)
+    show_alerts(other_alerts, bloquant=False)
 
     print_intro()
 

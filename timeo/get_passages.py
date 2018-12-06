@@ -16,6 +16,26 @@ def get_stops():
     return df_stops
 
 
+def get_alerts(bloquant=True):
+
+    xml_times = urllib.request.urlopen(get_url_times('269060357|269059845'))
+    data_xml = xml_times.read()
+    xml_times.close()
+    data_dict = xmltodict.parse(data_xml)
+
+    try:
+        list_alerts = data_dict['xmldata']['reseau']
+        bloquant = str(bloquant).lower()
+
+        if list_alerts['bloquant'] == bloquant:
+            return (list_alerts['titre'], list_alerts['texte'])
+        else:
+            return None
+
+    except KeyError:
+        return None
+
+
 def get_times(ref_arret):
     """We suppose the ref is valid"""
 
