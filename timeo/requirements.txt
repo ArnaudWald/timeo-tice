@@ -1,0 +1,4 @@
+xmltodict
+pandas
+Flask
+flask-restful

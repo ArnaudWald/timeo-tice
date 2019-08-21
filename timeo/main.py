@@ -32,10 +32,10 @@ if __name__ == '__main__':
 
     reponse = None
 
-    blocking_alerts = get_alerts(bloquant=True)
+    blocking_alerts = get_alerts(only_bloquant=True)
     show_alerts(blocking_alerts, bloquant=True)
 
-    other_alerts = get_alerts(bloquant=False)
+    other_alerts = get_alerts(only_bloquant=False)
     show_alerts(other_alerts, bloquant=False)
 
     print_intro()
@@ -66,6 +66,6 @@ if __name__ == '__main__':
                 print('Entrée non valide')
 
         except ValueError as e:
-            print('Entrée non valide')
+            print('Entrée non valide', e)
 
     print('À bientôt !')

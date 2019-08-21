@@ -75,8 +75,7 @@ def show_alerts(alerts, bloquant=True):
 
 
 def cli_display(description, messages, passages):
-    """Text output"""
-
+    """Text output."""
     other_alerts = get_alerts(bloquant=False)
     show_alerts(other_alerts, bloquant=False)
 

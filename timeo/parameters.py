@@ -9,6 +9,8 @@ def format_url(xml_key, post_params, bus_network=BUS_NETWORK_CODE):
 
 def get_url_all_lines():
     """
+    URL pour toutes les lignes.
+
     http://timeo3.keolis.com/relais/<code_réseau>.php?xml=1
     """
     xml_key = 1
@@ -19,6 +21,8 @@ def get_url_all_lines():
 
 def get_url_stop_codes(ligne, sens):
     """
+    URL pour les codes d'arrêt.
+
     http://timeo3.keolis.com/relais/<code_réseau>.php?xml=1&ligne=<id_ligne>&sens=<id_sens>
     """
     xml_key = 1
@@ -29,6 +33,8 @@ def get_url_stop_codes(ligne, sens):
 
 def get_url_times(ref_arret):
     """
+    URL pour les temps de passage.
+
     http://timeo3.keolis.com/relais/<code_réseau>.php?xml=3&refs=<référence_arret>&ran=1
     """
     xml_key = 3

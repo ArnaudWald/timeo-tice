@@ -8,9 +8,7 @@ from parameters import get_url_all_lines, get_url_stop_codes
 
 
 def update_all_lines(filename):
-    """
-        Reload the csv with all the lines, codes etc.
-    """
+    """Reload the csv with all the lines, codes etc."""
     xml_lines = urllib.request.urlopen(get_url_all_lines())
     data_xml = xml_lines.read()
     xml_lines.close()
@@ -37,10 +35,7 @@ def update_all_lines(filename):
 
 
 def update_stop_codes(code_ligne, sens, filename):
-    """
-    Reload the csv with all the stop codes, names etc.
-    """
-
+    """Reload the csv with all the stop codes, names etc."""
     xml_stops = urllib.request.urlopen(get_url_stop_codes(code_ligne, sens))
     data_xml = xml_stops.read()
     xml_stops.close()
@@ -77,10 +72,10 @@ def update_stop_codes(code_ligne, sens, filename):
 
 
 if __name__ == '__main__':
-    filename = 'timeo/data/codes_lignes.csv'
+    filename = 'data/codes_lignes.csv'
     updated_lines = update_all_lines(filename)
 
-    filename = 'timeo/data/codes_arrets.csv'
+    filename = 'data/codes_arrets.csv'
 
     if os.path.isfile(filename):
         os.remove(filename)
